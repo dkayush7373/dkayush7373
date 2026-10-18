@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Nikhil SK 👋<br><br>### 🎓 Information Science and Engineering (ISE) Student | Aspiring Software Engineer<br><br>I'm an Information Science and Engineering student from India 🇮🇳, passionate about software development, problem-solving, and exploring new technologies. I'm continuously improving my programming skills and building projects to apply my knowledge to real-world challenges.<br><br>📧 **Email:** [nikhilsk1976@gmail.com](mailto:nikhilsk1976@gmail.com)<br><br>---<br><br>### 🚀 About Me<br><br>- 🎓 Pursuing a degree in Information Science and Engineering.<br>- 💻 Learning programming, software development, and computer science fundamentals.<br>- 🌱 Exploring Artificial Intelligence, Machine Learning, and Data Science.<br>- 🛠️ Interested in building practical projects and developing problem-solving skills.<br>- 👯 Open to collaborating on student projects, open-source contributions, and hackathons.<br>- 🎯 Goal: Become a skilled software engineer and build technology that solves real-world problems.<br><br>---<br><br>### 🛠️ Technical Interests<br><br>- **Programming:** C, C++, Java, Python<br>- **Web Development:** HTML, CSS, JavaScript<br>- **Core Computer Science:** Data Structures and Algorithms, DBMS, Operating Systems<br>- **Emerging Technologies:** Artificial Intelligence and Machine Learning<br>- **Tools:** Git, GitHub, VS Code<br><br>---<br><br>### 📌 What I'm Working Towards<br><br>- Strengthening my programming fundamentals.<br>- Building practical software development projects.<br>- Improving my problem-solving and logical thinking.<br>- Learning industry-relevant technologies and development tools.<br><br>---<br><br>### 🤝 Let's Connect<br><br>I'm always eager to learn, share ideas, and connect with fellow students and developers.<br><br>📧 **Email:** [nikhilsk1976@gmail.com](mailto:nikhilsk1976@gmail.com)<br><br>---<br><br>⭐ *Learning by building. Growing through collaboration. Engineering better solutions.*<br><br>
 
-<!--
-**dkayush7373/dkayush7373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-sk-3b82b7431) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilsk1976@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=dkayush7373&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=dkayush7373&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=dkayush7373&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=dkayush7373&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
